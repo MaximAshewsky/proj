@@ -9,6 +9,7 @@ public class MainApplication {
         System.out.println("1111111111");
         System.out.println("1111111111");
         System.out.println("1111111111");
+        System.out.println("-----");
     }
     public static void doSomething() {
         System.out.println(0);
